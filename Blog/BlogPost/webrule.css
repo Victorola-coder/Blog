@@ -50,4 +50,10 @@ body {
   text-align: center;
   padding: 20px;
   margin-top: 80px;
+
+}
+@media (max-width:940px){
+  .card{
+    margin:auto;
+  }
 }
