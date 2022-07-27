@@ -52,7 +52,7 @@ body {
   margin-top: 80px;
 
 }
-@media (max-width:940px){
+@media (max-width:768px){
   .card{
     margin:auto;
   }
