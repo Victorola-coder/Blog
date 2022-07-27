@@ -1,0 +1,53 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+.header {
+  background-color: black;
+  height: 70px;
+}
+
+.title {
+  text-align: center;
+  margin: 12px;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.follow {
+  font-family: verdana;
+  margin: 10px 20px;
+  color: #595959;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 80%;
+  margin-left: 150px;
+}
+
+.content {
+  margin: 40px;
+}
+
+.post{
+    margin: 15px;
+    font-size: 18px;
+    font-family: Tahoma;
+}
+
+.footer {
+  font-family: Verdana ;
+  text-align: center;
+  padding: 20px;
+  margin-top: 80px;
+}
