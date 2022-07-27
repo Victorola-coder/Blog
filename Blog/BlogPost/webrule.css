@@ -35,12 +35,6 @@ body {
   margin-left: 150px;
 }
 
-@media (max-width:768px){
-.card{
-    margin:auto;
-}
-}
-
 .content {
   margin: 40px;
 }
